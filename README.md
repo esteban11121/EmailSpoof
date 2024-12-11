@@ -1,6 +1,6 @@
 # 📩 Email Spoof Sender 📩
 
-**Versión mejorada y mantenida por [@esteban111221](https://github.com/esteban111221)**  
+**Versión mejorada y mantenida por [@esteban11121](https://github.com/esteban11121)**  
 ¡Este script es tu herramienta definitiva para enviar correos electrónicos con una dirección de remitente falsificada! 📨
 
 ## 🚀 Características
@@ -17,10 +17,10 @@ Primero, asegúrate de tener **Python 3** instalado.
 
 1. **Clona este repositorio:**
    ```bash
-   git clone https://github.com/esteban111221/email-spoof-sender.git
+   git clone https://github.com/esteban111221/email-spoof-sender.git](https://github.com/esteban11121/EmailSpoof
 2. **Navega al directorio** del proyecto:
    ```bash
-   cd email-spoof-sender
+   cd EmailSpoof
    ```
 3. **Instala las dependencias:**
    ```bash
@@ -32,7 +32,7 @@ Primero, asegúrate de tener **Python 3** instalado.
 1. Ejecuta el script desde la terminal:
 
 ```bash
-   python spoof_sender.py
+   python EmailSpoof.py
 ```
 2. Ingresa los detalles del correo que deseas enviar:
 
@@ -41,6 +41,10 @@ Destinatarios (uno o varios)
 Asunto
 Cuerpo del mensaje
 Archivos adjuntos (opcional)
+
+3. Dar Permisos
+
+chmod +x EmailSpoof.py
 
 El script enviará el correo con los datos proporcionados. Los correos pueden ser enviados desde diferentes servicios de correo electrónico, según la configuración.
 
