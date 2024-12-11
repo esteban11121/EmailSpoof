@@ -17,7 +17,7 @@ Primero, asegúrate de tener **Python 3** instalado.
 
 1. **Clona este repositorio:**
    ```bash
-   git clone https://github.com/esteban111221/email-spoof-sender.git](https://github.com/esteban11121/EmailSpoof
+   git clone https://github.com/esteban11121/EmailSpoof
 2. **Navega al directorio** del proyecto:
    ```bash
    cd EmailSpoof
