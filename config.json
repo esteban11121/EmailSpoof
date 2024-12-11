@@ -1,0 +1,10 @@
+{
+  "config_file": "/home/usuario/config.json",
+  "sender_email": "mi_correo@dominio.com",
+  "app_password": "mi_contraseña_segura",
+  "receiver_email": "destinatario@dominio.com",
+  "asunto": "Informe de Seguridad",
+  "spoof": "alias@dominio.com",
+  "texto": "Este es el mensaje que se envía en el email.",
+  "attachment": "/home/usuario/informe_seguridades.pdf"
+}
